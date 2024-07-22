@@ -21,7 +21,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VehanRajintha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=8706E1&center=true&width=435&lines=Hii+;I+am+vehan+Rajintha)](https://git.io/typing-svg)
+ ### Hi there 👋
 
 
 - 😊 I’m Vehan Rajintha
