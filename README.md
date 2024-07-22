@@ -14,6 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Vehan+Rajintha;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VehanRajintha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iammonsterbunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
