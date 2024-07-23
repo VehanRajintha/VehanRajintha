@@ -32,7 +32,7 @@
 - 💞️ I’m looking to collaborate on building websites and web apps, developping linux tools, Linux server operations and...
 - 📫 Email me via IT23646360@my.sliit.lk to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/vehanrajintha/
-- 💬 Text me on telegram https://t.me/VehanRajintha
+- 💬 Text me on WhatsApp +94713910417
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VehanRajintha)](https://github.com/ryo-ma/github-profile-trophy)
