@@ -40,6 +40,28 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=VehanRajintha)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Frameworks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java" alt="languages and frameworks" />
+</div>
+
+### 🎨 Design & Styling
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,tailwind,scss,materialui,bootstrap,styledcomponents" alt="design tools" />
+</div>
+
+### 🛠️ Tools & Platforms
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,docker,aws,firebase,vercel,netlify,postman" alt="tools and platforms" />
+</div>
+
+
 ## 🤝 Connect & Collaborate
 
 <div align="center">
