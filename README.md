@@ -27,12 +27,12 @@
 
 
 - 😊 I’m Vehan Rajintha
-- 👦🏻 I'm 21 years old
+- 👦🏻 I'm 22 years old
 - 👀 I’m interested in Software developig,Hacking,Web developing and...
 - 🌱 I’m currently reading Computer Systems and Network Engineering Degree at SLIIT.
 - 🕺 I'm  also member of KCD , GDG & AICSL..
-- 💞️ I’m looking to collaborate on building websites and web apps, developping linux tools, Linux server operations and...
-- 📫 Email me via IT23646360@my.sliit.lk to contact
+- 💞️ I’m looking to collaborate on building websites and apps, developping linux tools, Linux server operations and...
+- 📫 Email me via vehanrajintha17@gmail.com to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/vehanrajintha/
 - 💬 Text me on WhatsApp +94713910417
 
