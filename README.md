@@ -16,12 +16,33 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Vehan+Rajintha;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VehanRajintha" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VehanRajintha&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
+  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
+  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
 
 <!--Night Owl image-->
 <div>
