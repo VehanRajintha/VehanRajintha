@@ -108,11 +108,9 @@ Web Development and Linux systems. I enjoy building real-world technical solutio
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-<h3 align="left">Latest Blog Posts</h3>
+<h3 align="left"> </h3>
 <ul align="left">
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  
 </ul>
 <br />
 <br />
