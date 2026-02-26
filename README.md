@@ -23,9 +23,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VehanRajintha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
- <!--Banner-->
-![VehanRajintha Banner Image](./banner.png)
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
