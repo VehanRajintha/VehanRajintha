@@ -23,18 +23,38 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VehanRajintha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
- ### Hi there 👋
+ <!--Banner-->
+![VehanRajintha Banner Image](./banner.png)
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-- 😊 I’m Vehan Rajintha
-- 👦🏻 I'm 22 years old
-- 👀 I’m interested in Software developig,Hacking,Web developing and...
-- 🌱 I’m currently reading Computer Systems and Network Engineering Degree at SLIIT.
-- 🕺 I'm  also member of KCD , GDG & AICSL..
-- 💞️ I’m looking to collaborate on building websites and apps, developping linux tools, Linux server operations and...
-- 📫 Email me via vehanrajintha17@gmail.com to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/vehanrajintha/
-- 💬 Text me on WhatsApp +94713910417
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴠᴇʜᴀɴ ʀᴀᴊɪɴᴛʜᴀ 
+*Digital Craftsman (Developer / Programmer / Network & Security Enthusiast)*
+<br /> 
+
+<!--Intro-->               
+<p align="left">
+I am a passionate IT Undergraduate interested in Software Development, Ethical Hacking,
+Web Development and Linux systems. I enjoy building real-world technical solutions.
+</p>
+
+- 👦🏻 I'm 22 years old  
+- 👀 Interested in Software Developing, Hacking & Web Developing  
+- 🌱 Currently reading **Computer Systems & Network Engineering Degree at SLIIT**  
+- 🕺 Member of **KCD , GDG & AICSL**  
+- 💞️ Looking to collaborate on:
+  - 🌐 Building Websites & Apps  
+  - 🐧 Developing Linux Tools  
+  - 🖥 Linux Server Operations  
+- 📫 Email: vehanrajintha17@gmail.com  
+- 🤩 Instagram: https://www.instagram.com/vehanrajintha/  
+- 💬 WhatsApp: +94713910417  
+
+---
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VehanRajintha)](https://github.com/ryo-ma/github-profile-trophy)
