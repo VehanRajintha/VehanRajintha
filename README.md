@@ -79,14 +79,6 @@ Web Development and Linux systems. I enjoy building real-world technical solutio
         src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
   </a>
 
 </div>
