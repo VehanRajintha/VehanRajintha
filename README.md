@@ -122,8 +122,6 @@ Web Development and Linux systems. I enjoy building real-world technical solutio
 <br />
 <br />
 <br />
-<br />
-<br />
 
 
 <!-- Tech Stack Section -->
